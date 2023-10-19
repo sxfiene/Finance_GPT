@@ -8,7 +8,7 @@ Il est le fruit de la collaboration de 6 étudiants :
   <li>Sofiene Hayek</li>
   <li>Dylan Lannuzel</li>
   <li>Maxime Caillaud</li>
-  <li>Darius Buzura/li>
+  <li>Darius Buzura</li>
   <li>Lilia Mahrez</li>
   <li>Mazigh Mohamedi</li>
 </ul>
