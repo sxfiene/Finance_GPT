@@ -13,4 +13,6 @@ Il est le fruit de la collaboration de 6 étudiants :
   <li>Mazigh Mohamedi</li>
 </ul>
 
-<a href="https://docs.google.com/spreadsheets/d/1UZqGS0qBc816E_70oqSOMQBjfUwfkFBca55ppEhxKkw/edit?usp=sharing"> Fiche de suivi </a>
+<hr>
+
+<a href="https://docs.google.com/spreadsheets/d/1UZqGS0qBc816E_70oqSOMQBjfUwfkFBca55ppEhxKkw/edit?usp=sharing"> Fichier des suivi des tâches </a>
