@@ -37,8 +37,10 @@ Nous utiliserons le jeu de données suivant pour entraîner notre chatbot :
 
 ## Langages et outils utilisées:
 
-![](https://skillicons.dev/icons?i=tensorflow,py,github,&theme=dark)
-
+![](https://skillicons.dev/icons?i=tensorflow,py,github&theme=dark)
+<img src="https://i0.wp.com/crowintelligence.org/wp-content/uploads/2021/04/1200px-Jupyter_logo.svg_.png?fit=1200%2C1391&ssl=1" style="width:50px; height: 50px; border-radius:12px; padding: 5px; background-color:#242938; margin-left:4px">
+<img src="https://huggingface.co/front/assets/spaces-launch-page/gradio-logo.svg" style="width:140px; height: 50px; border-radius:12px; padding: 5px; background-color:#242938; margin-left:4px ">
+<img src="https://victorzhou.com/static/c309c4c6a7bbdb43cf1f290786ce47ab/39600/keras-logo.png" style="width:150px; height: 50px; border-radius:12px; padding: 5px; background-color:#242938; margin-left:4px">
 
 
 
