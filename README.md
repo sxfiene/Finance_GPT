@@ -27,6 +27,14 @@ Le chatbot est construit en utilisant les technologies suivantes :
 
 <hr>
 
+## Disponible en ligne
+
+Le chatbot est disponible en ligne à l'adresse suivante : https://huggingface.co/spaces/DiDiR6/GPT2_Financial
+<br>
+Le modèle Keras associé est aussi disponible : https://huggingface.co/DiDiR6/GPT2_Financial
+
+<hr>
+
 ## Jeux de données
 
 Nous utiliserons le jeu de données suivant pour entraîner notre chatbot :
